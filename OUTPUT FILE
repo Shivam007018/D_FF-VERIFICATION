@@ -1,0 +1,85 @@
+RESET IS DONE
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 1 
+[MON] : DIN : 1 :DOUT : 1
+[SCO] : DIN :1 : DOUT : 1
+[REF] : DIN : 0
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 0 
+[MON] : DIN : 1 :DOUT : 0
+[SCO] : DIN :0 : DOUT : 0
+[REF] : DIN : 1
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 1 
+[MON] : DIN : 0 :DOUT : 1
+[SCO] : DIN :1 : DOUT : 1
+[REF] : DIN : 0
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 0 
+[MON] : DIN : 1 :DOUT : 0
+[SCO] : DIN :0 : DOUT : 0
+[REF] : DIN : 1
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 0 
+[MON] : DIN : 0 :DOUT : 0
+[SCO] : DIN :0 : DOUT : 0
+[REF] : DIN : 0
+DATA MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 1 
+[MON] : DIN : 0 :DOUT : 1
+[SCO] : DIN :1 : DOUT : 1
+[REF] : DIN : 0
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 0 
+[MON] : DIN : 1 :DOUT : 0
+[SCO] : DIN :0 : DOUT : 0
+[REF] : DIN : 1
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 1 
+[MON] : DIN : 0 :DOUT : 1
+[SCO] : DIN :1 : DOUT : 1
+[REF] : DIN : 0
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 0 
+[MON] : DIN : 1 :DOUT : 0
+[SCO] : DIN :0 : DOUT : 0
+[REF] : DIN : 1
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 1 
+[MON] : DIN : 0 :DOUT : 1
+[SCO] : DIN :1 : DOUT : 1
+[REF] : DIN : 0
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 0 
+[MON] : DIN : 1 :DOUT : 0
+[SCO] : DIN :0 : DOUT : 0
+[REF] : DIN : 1
+DATA DOESN'T MATCHED
+--------------------------------
+GENERATED IS GENERATED OUTPUT
+[DRV] : APPILED DIN = 1 
+[MON] : DIN : 0 :DOUT : 1
+[SCO] : DIN :1 : DOUT : 1
+[REF] : DIN : 0
+DATA DOESN'T MATCHED
+--------------------------------
